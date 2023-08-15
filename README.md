@@ -33,7 +33,7 @@
 - [Queue](https://github.com/spacedustz/Algorithm/blob/main/Description/DataStructure/Queue.md)
 - [Iterator](https://github.com/spacedustz/Algorithm/blob/main/Description/DataStructure/Iterator.md)
 - [Linked List](https://github.com/spacedustz/Algorithm/blob/main/Description/DataStructure/LinkedList.md)
-- [Doubly & Circular Linked List](https://github.com/spacedustz/Algorithm/blob/main/Description/DataStructure/Doubly-Circular-LinkedLIst.md)
+- [Doubly & Circular Linked List](https://github.com/spacedustz/Algorithm/blob/main/Description/DataStructure/Doubly-Circular-LinkedList.md)
 
 
 
